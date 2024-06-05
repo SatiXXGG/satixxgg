@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro Vela.</h1>
 <h3 align="center">A passionate frontend developer from México.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satixxgg&label=Profile%20views&color=0e75b6&style=flat" alt="satixxgg" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satixxgg" alt="satixxgg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/satixx_yt" target="blank"><img src="https://img.shields.io/twitter/follow/satixx_yt?logo=twitter&style=for-the-badge" alt="satixx_yt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +19,3 @@
 <p><a href="https://ko-fi.com/SatixXGG"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SatixXGG" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satixxgg&show_icons=true&locale=en&layout=compact" alt="satixxgg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satixxgg&show_icons=true&locale=en" alt="satixxgg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satixxgg&" alt="satixxgg" /></p>
